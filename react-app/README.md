@@ -1,6 +1,7 @@
 # React stack
-DISCLAIMER: React is a complicated framework. If you're not familiar with webdev/this is your first time, I'd recommend using the static HTML route.  
+React is a robust framework. If you're not familiar with webdev/this is your first time, we'd recommend using the static HTML route.  
 
+The backend is already set up for you, it's ready to serve your react frontend!
 
 ## Setup
 
